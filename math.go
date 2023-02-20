@@ -1,5 +1,5 @@
 package main
-import "ftm"
+import "fmt"
 
 func main(){
 	fmt.Println(Soma(10, 10))
